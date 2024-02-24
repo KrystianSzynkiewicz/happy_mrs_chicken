@@ -1,0 +1,32 @@
+body {
+    background-color: rgba(1,180,238,255);
+    width: 100vw;
+    height: 100vh;
+    overflow: hidden;
+}
+.deactive {
+    display: none;
+}
+#chicken {
+    position: absolute;
+    width: 6%;
+    left: 47%;
+    top: 50%;
+}
+#chicken img {
+    width: 100%;
+}
+#egg {
+    position: absolute;
+}
+.absolute {
+    position: absolute;
+}
+.video {
+    position: absolute;
+    left: 20%;
+    top: 0;
+    width: 60%;
+    z-index: 5;
+    
+}
